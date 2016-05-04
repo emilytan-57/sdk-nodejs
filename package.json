@@ -1,0 +1,16 @@
+{
+  "name": "bemyguestapiv1lib",
+  "version": "1.0.0",
+  "description": "Please refer to
+http://docs.bemyguest.apiary.io/
+or
+http://docs.bemyguestchinese.apiary.io/",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "APIMATIC SDK Generator",
+  "dependencies": {
+    "request": "^2.55.0",
+    "string": "^3.1.1"
+  }
+}
